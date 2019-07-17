@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\bear\Desktop\coursera\Gatech\PCB\Sampling.PcbDoc
+Date         : 2019/6/15
+Time         : 14:34:15
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 76
+    Connections routed, 76
+    Connections remaining, 0
+count : 4
